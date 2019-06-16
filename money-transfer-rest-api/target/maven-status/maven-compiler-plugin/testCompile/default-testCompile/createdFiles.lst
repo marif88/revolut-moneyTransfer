@@ -1,0 +1,4 @@
+com\revolut\httpserver\money_transfer_rest_api\data\InMemoryAccountRepositoryTest.class
+com\revolut\httpserver\money_transfer_rest_api\domain\account\AccountServiceTest.class
+com\revolut\httpserver\money_transfer_rest_api\app\MoneyTransferApplicationTest.class
+com\revolut\httpserver\money_transfer_rest_api\app\api\RequestHandlerTest.class
